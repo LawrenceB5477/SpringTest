@@ -1,0 +1,22 @@
+.content {
+    max-width: 90%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.grid {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.ingredient-group {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.validationErrors {
+    color: red;
+}

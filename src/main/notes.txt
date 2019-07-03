@@ -1,0 +1,18 @@
+send a request with a client id and
+a redirect url to auth. server
+
+server sends back a token,
+
+client sends a request with the token
+to get an access token / used
+to authenticate client server!
+
+access token sent back by authorization server
+which client uses on subsequent requests to the
+resource server
+
+
+user
+application
+api - authentication server, resource server
+
